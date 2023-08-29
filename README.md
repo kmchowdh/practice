@@ -1,3 +1,3 @@
-# practice %%%%%%%%%%UI person is here!!!!!!
+# practice %%%%%%%UI person is here!!!!!!
 
-%%%more UI
+%%%more UI stuff
